@@ -1,8 +1,8 @@
 //
 //  HAVersionUpdater.swift
-//  Demo Project
+//  Utilities
 //
-//  Created by devadmin on 12/10/2021.
+//  Created by Husnain on 12/10/2020.
 //
 
 import Foundation
